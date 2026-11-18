@@ -24,7 +24,8 @@
 | `modum.jpg` | 부위별 구이 옆 모듬구이 | <img src="img/modum.jpg" width="200"> | 정사각형으로 잘림 |
 | `sulbap.jpg` | 마무리와 후식: 맛돌술밥 카드 | <img src="img/sulbap.jpg" width="200"> | 가로 사진 (4:3으로 잘림) |
 | `yangbap.jpg` | 마무리와 후식: 양볶음밥 카드 | <img src="img/yangbap.jpg" width="200"> | 가로 사진 (4:3으로 잘림) |
-| `banchan.jpg` | 단체석과 상차림 | <img src="img/banchan.jpg" width="200"> | 세로 사진 (4:5로 잘림) |
+| `interior.jpg` | 단체석과 상차림 (왼쪽, 1층 매장 내부) | <img src="img/interior.jpg" width="200"> | 가로 사진 (4:3으로 잘림). 맥주 상자·냉장고·광고물이 안 나오게 |
+| `banchan.jpg` | 단체석과 상차림 (오른쪽, 기본 상차림) | <img src="img/banchan.jpg" width="200"> | 가로 사진 (4:3으로 잘림) |
 | `award.jpg` | 수상 섹션 (상패·인증서) | <img src="img/award.jpg" width="200"> | 가로 사진. 비율 그대로 보임 |
 | `exterior.jpg` | 찾아오는 길 (1층 외관) | <img src="img/exterior.jpg" width="200"> | 세로 사진 (3:5로 잘림). 차량 번호판·다른 업체 간판이 안 나오게 |
 
