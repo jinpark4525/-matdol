@@ -22,6 +22,7 @@
 | `hyeonpan.jpg` | 25년 이야기 (大味必淡 현판) | <img src="img/hyeonpan.jpg" width="200"> | 아주 긴 가로 사진. 비율 그대로 보임 |
 | `gopchang.jpg` | 손질 원칙 옆 곱창 사진 | <img src="img/gopchang.jpg" width="200"> | 가로 사진 (3:2로 잘림). 주방·손질 장면은 넣지 않기 |
 | `modum.jpg` | 부위별 구이 옆 모듬구이 | <img src="img/modum.jpg" width="200"> | 정사각형으로 잘림 |
+| `jeongol.jpg` | 한우곱창전골 (크기별 가격 옆) | <img src="img/jeongol.jpg" width="200"> | 가로 사진 (4:3으로 잘림) |
 | `sulbap.jpg` | 마무리와 후식: 맛돌술밥 카드 | <img src="img/sulbap.jpg" width="200"> | 가로 사진 (4:3으로 잘림) |
 | `yangbap.jpg` | 마무리와 후식: 양볶음밥 카드 | <img src="img/yangbap.jpg" width="200"> | 가로 사진 (4:3으로 잘림) |
 | `interior.jpg` | 단체석과 상차림 (왼쪽, 1층 매장 내부) | <img src="img/interior.jpg" width="200"> | 가로 사진 (4:3으로 잘림). 맥주 상자·냉장고·광고물이 안 나오게 |
