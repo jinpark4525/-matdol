@@ -193,10 +193,7 @@ p{margin:0}
 
 /* 11 reviews */
 .reviews{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:28px;border-top:1px solid var(--wood);border-bottom:1px solid var(--wood);padding-block:32px}
-.stat{display:flex;gap:clamp(24px,5vw,56px);flex-wrap:wrap}
-.stat div{display:grid}
-.stat b{font-family:var(--serif);font-weight:900;font-size:clamp(44px,6vw,64px);line-height:1}
-.stat span{font-size:15px;color:var(--mute-on-light);margin-top:6px}
+.review-title{font-size:clamp(24px,3.4vw,34px);line-height:1.4}
 .asof{font-size:14px;color:var(--mute-on-light);margin-top:14px}
 
 /* 12 takeout */
@@ -517,14 +514,10 @@ footer dd{margin:0}
     <div class="reviews">
       <div>
         <p class="eyebrow">네이버 리뷰</p>
-        <h2 id="t-review" class="sr">네이버 리뷰 995개, 평점 4.67</h2>
-        <div class="stat num" aria-hidden="true">
-          <div><b>995</b><span>리뷰</span></div>
-          <div><b>4.67</b><span>평점</span></div>
-        </div>
-        <p class="asof">2026년 11월 14일 네이버 플레이스 기준</p>
+        <h2 id="t-review" class="review-title">다녀가신 분들의 리뷰는<br>네이버에서 확인하세요</h2>
+        <p class="asof">버튼을 누르면 네이버 플레이스의 최신 리뷰와 평점을 볼 수 있습니다.</p>
       </div>
-      <a class="btn ghost" href="https://search.naver.com/search.naver?query=%EB%A7%9B%EB%8F%8C%EA%B3%B1%EC%B0%BD%EA%B5%AC%EC%9D%B4" target="_blank" rel="noopener">네이버에서 리뷰 보기</a>
+      <a class="btn primary" href="https://search.naver.com/search.naver?query=%EB%A7%9B%EB%8F%8C%EA%B3%B1%EC%B0%BD%EA%B5%AC%EC%9D%B4" target="_blank" rel="noopener">네이버에서 리뷰 보기</a>
     </div>
   </div>
 </section>
