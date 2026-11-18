@@ -22,8 +22,8 @@
 | `hyeonpan.jpg` | 25년 이야기 (大味必淡 현판) | <img src="img/hyeonpan.jpg" width="200"> | 아주 긴 가로 사진. 비율 그대로 보임 |
 | `gopchang.jpg` | 손질 원칙 옆 곱창 사진 | <img src="img/gopchang.jpg" width="200"> | 가로 사진 (3:2로 잘림). 주방·손질 장면은 넣지 않기 |
 | `modum.jpg` | 부위별 구이 옆 모듬구이 | <img src="img/modum.jpg" width="200"> | 정사각형으로 잘림 |
-| `sulbap.jpg` | 마무리와 후식: 맛돌술밥 카드 | (아직 없음) | 가로 사진 (4:3으로 잘림). 올리기 전에는 글자만 보임 |
-| `yangbap.jpg` | 마무리와 후식: 양볶음밥 카드 | (아직 없음) | 가로 사진 (4:3으로 잘림). 올리기 전에는 글자만 보임 |
+| `sulbap.jpg` | 마무리와 후식: 맛돌술밥 카드 | <img src="img/sulbap.jpg" width="200"> | 가로 사진 (4:3으로 잘림) |
+| `yangbap.jpg` | 마무리와 후식: 양볶음밥 카드 | <img src="img/yangbap.jpg" width="200"> | 가로 사진 (4:3으로 잘림) |
 | `banchan.jpg` | 단체석과 상차림 | <img src="img/banchan.jpg" width="200"> | 세로 사진 (4:5로 잘림) |
 | `award.jpg` | 수상 섹션 (상패·인증서) | <img src="img/award.jpg" width="200"> | 가로 사진. 비율 그대로 보임 |
 | `exterior.jpg` | 찾아오는 길 (1층 외관) | <img src="img/exterior.jpg" width="200"> | 세로 사진 (3:5로 잘림). 차량 번호판·다른 업체 간판이 안 나오게 |
