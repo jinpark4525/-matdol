@@ -232,10 +232,11 @@ p{margin:0}
 /* footer */
 footer{background:#121110;color:var(--mute-on-dark);font-size:14px;line-height:1.8;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:40px 120px}
 footer .inner{display:flex;flex-wrap:wrap;justify-content:space-between;gap:20px}
-footer .logo-sm{width:180px;opacity:.85}
+footer .logo-sm{width:180px;height:auto;flex:none;align-self:flex-start;opacity:.85}
 footer dl{display:grid;grid-template-columns:auto minmax(0,1fr);gap:2px 14px;margin:0}
 footer dt{color:#8C8378}
 footer dd{margin:0}
+footer a{color:var(--hanji);text-underline-offset:3px}
 
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 /* sticky call bar (mobile) */
@@ -513,11 +514,14 @@ footer dd{margin:0}
   <div class="inner">
     <div class="reviews">
       <div>
-        <p class="eyebrow">네이버 리뷰</p>
+        <p class="eyebrow">네이버 리뷰 · 유튜브</p>
         <h2 id="t-review" class="review-title">다녀가신 분들의 리뷰는<br>네이버에서 확인하세요</h2>
         <p class="asof">버튼을 누르면 네이버 플레이스의 최신 리뷰와 평점을 볼 수 있습니다.</p>
       </div>
-      <a class="btn primary" href="https://search.naver.com/search.naver?query=%EB%A7%9B%EB%8F%8C%EA%B3%B1%EC%B0%BD%EA%B5%AC%EC%9D%B4" target="_blank" rel="noopener">네이버에서 리뷰 보기</a>
+      <div class="btns">
+        <a class="btn primary" href="https://search.naver.com/search.naver?query=%EB%A7%9B%EB%8F%8C%EA%B3%B1%EC%B0%BD%EA%B5%AC%EC%9D%B4" target="_blank" rel="noopener">네이버에서 리뷰 보기</a>
+        <a class="btn ghost" href="https://www.youtube.com/channel/UCraQ0bZRmnupQdSNbGCD_Tg" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="2.5" y="5" width="19" height="14" rx="3"/><path d="M10 9.2v5.6l4.8-2.8z" fill="currentColor"/></svg> 유튜브 영상 보기</a>
+      </div>
     </div>
   </div>
 </section>
@@ -627,6 +631,7 @@ footer dd{margin:0}
       <dt>사업자등록번호</dt><dd>693-24-01603</dd>
       <dt>주소</dt><dd>대전 서구 대덕대로335번길 27</dd>
       <dt>전화</dt><dd>042-484-5161</dd>
+      <dt>유튜브</dt><dd><a href="https://www.youtube.com/channel/UCraQ0bZRmnupQdSNbGCD_Tg" target="_blank" rel="noopener">맛돌곱창구이 채널</a></dd>
     </dl>
   </div>
 </footer>
